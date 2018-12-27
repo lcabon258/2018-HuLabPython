@@ -8,6 +8,10 @@
 4. 鍵入```jupyter notebook```開始筆記本伺服器  
 5. 在網頁遊覽器中，找到對應的筆記本開始練習。    
 
+20181228 補充：
+如果想玩 jupyter notebook 互動的小工具，請記得安裝 **ipywidgets** 套件！：  
+```conda install -c conda-forge ipywidgets```
+
 ## Note: 
 * 如果不小心關掉網頁，在瀏覽器打入下面網址：```localhost:8888```
 * 關閉伺服器時，在 Terminal 或 命令提示字元視窗下，按```control + c```
